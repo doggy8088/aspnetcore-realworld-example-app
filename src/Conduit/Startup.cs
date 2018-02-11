@@ -15,6 +15,9 @@ using Swashbuckle.AspNetCore.Swagger;
 
 namespace Conduit
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public class Startup
     {
         public const string DATABASE_FILE = "realworld.db";
